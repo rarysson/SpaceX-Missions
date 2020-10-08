@@ -11,6 +11,8 @@ Esse projeto foi desenvolvido baseado no [desafio front-end da SolarView](docs/D
 
 ## Usando o APP
 
+Para usar online acesse o link: https://rarysson.github.io/SpaceX-Missions/
+
 Para usar localmente, clone o repositório, vá na pasta criada e execute os comandos:
 
 ```

@@ -22,12 +22,13 @@ export default {
 .card-container {
   color: var(--light-black);
   cursor: pointer;
-  transition: all 0.3s;
+  transition: all 0.25s;
 }
 
 .card-container:hover {
   border-color: var(--black);
   box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.2);
+  transform: scale(105%);
 }
 
 .card-title {
