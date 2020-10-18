@@ -1,6 +1,6 @@
-# Missions SpaceX
+# SpaceX Missions
 
-O Missions SpaceX é uma central de notícias das últimas missões da SpaceX.
+O SpaceX Missions é uma central de notícias das últimas missões da SpaceX.
 
 Esse projeto foi desenvolvido baseado no [desafio front-end da SolarView](docs/DESAFIO.md).
 
